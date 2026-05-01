@@ -54,9 +54,9 @@
       <Project>{c07be4d1-bc62-4e84-a7da-9eb3033b4bd4}</Project>
       <Name>DATOS</Name>
     </ProjectReference>
-    <ProjectReference Include="..\METODOS\ENTIDAD.csproj">
-      <Project>{9ed35e01-fb7b-4f00-8a58-2a26560dbb39}</Project>
-      <Name>ENTIDAD</Name>
+    <ProjectReference Include="..\ENTIDADES\ENTIDADES.csproj">
+      <Project>{e276fb04-2706-469d-a57c-628b4bba81bc}</Project>
+      <Name>ENTIDADES</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

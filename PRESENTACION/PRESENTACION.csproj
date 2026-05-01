@@ -80,13 +80,13 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\ENTIDADES\ENTIDADES.csproj">
+      <Project>{e276fb04-2706-469d-a57c-628b4bba81bc}</Project>
+      <Name>ENTIDADES</Name>
+    </ProjectReference>
     <ProjectReference Include="..\LOGICA\LOGICA.csproj">
       <Project>{abd48cdf-b791-4f55-bd72-d487e8c24497}</Project>
       <Name>LOGICA</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\METODOS\ENTIDAD.csproj">
-      <Project>{9ed35e01-fb7b-4f00-8a58-2a26560dbb39}</Project>
-      <Name>ENTIDAD</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
