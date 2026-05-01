@@ -8,7 +8,6 @@ namespace ENTIDAD
 {
     public class OrdenTrabajo
     {
-        public int numero;
         public int IdOrden;
         public int IdPedido;
         public int AsignadoA; // Id del usuario (costurero)
