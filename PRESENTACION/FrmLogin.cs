@@ -19,7 +19,7 @@ namespace PRESENTACION
 
         private void FrmLogin_Load(object sender, EventArgs e)
         {
-
+            //comentario
         }
     }
 }
