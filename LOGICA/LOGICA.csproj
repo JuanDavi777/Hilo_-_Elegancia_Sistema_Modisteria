@@ -54,8 +54,8 @@
       <Project>{c07be4d1-bc62-4e84-a7da-9eb3033b4bd4}</Project>
       <Name>DATOS</Name>
     </ProjectReference>
-    <ProjectReference Include="..\ENTIDADES\ENTIDAD.csproj">
-      <Project>{e276fb04-2706-469d-a57c-628b4bba81bc}</Project>
+    <ProjectReference Include="..\ENTIDAD\ENTIDAD.csproj">
+      <Project>{56799fc7-dbb9-4748-a38f-be6f03a6d812}</Project>
       <Name>ENTIDAD</Name>
     </ProjectReference>
   </ItemGroup>
